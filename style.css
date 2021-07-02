@@ -1,0 +1,17 @@
+* {
+    background-color: #2e3440;
+    color: #d8dee9;
+    font-family: "JetBrainsMono Nerd Font", "JetBrains Mono", monospace;
+}
+p.postamble, #table-of-contents > h2, h2>span, h3>span {
+    display: none;
+}
+h2 {
+    align: center;
+}
+ul li {
+    display: inline;
+    list-style-type: none;
+    padding-left: 1em;
+    padding-right: 1em;
+}

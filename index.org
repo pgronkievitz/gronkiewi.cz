@@ -1,0 +1,16 @@
+#+TITLE: Patryk Gronkiewicz
+#+OPTIONS: toc:1
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css">
+
+-----
+* About me
+Hi, my name's Patryk. I'm Data Engineering and Analysis student at Rzeszów University of Technology (Politechnika Rzeszowska, Poland). I'm one of the co-founders of [[http://knml.prz.edu.pl][Machine Learning Student Association]] (also known as KNML) at my university.
+* Projects
+All of my projects are available on my [[https://github.com/pgronkievitz][Github profile]]. My favorites are:
+
+** Coronavirus analysis
+We've started bunch of internal hackathons during the pandemic, but this was the first one and probably that's my favorite one. It's available at [[https://github.com/knmlprz][KNML GitHub Organization]].
+** Autojupy
+Autojupy is not maintained anymore, but it did a great job during my classes. I had to generate some charts with lots of points - with autojupy I could send my notebooks to the remote server and sleep calmly waiting for the notification that everything's done.
+* Contact
+You can contact me on my email [[mailto:patryk@gronkiewi.cz][patryk🐒gronkiewi.cz]]. I'm also available on [[https://t.me/pgronkievitz][Telegram]].
