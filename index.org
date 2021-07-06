@@ -5,6 +5,8 @@
 -----
 * About me
 Hi, my name's Patryk. I'm Data Engineering and Analysis student at Rzeszów University of Technology (Politechnika Rzeszowska, Poland). I'm one of the co-founders of [[http://knml.prz.edu.pl][Machine Learning Student Association]] (also known as KNML) at my university.
+
+I've created blog recently, so I'd be glad if you'd check it out ([[https://gronkiewicz.dev][link]]).
 * Projects
 All of my projects are available on my [[https://github.com/pgronkievitz][Github profile]]. My favorites are:
 
